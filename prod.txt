@@ -6,4 +6,7 @@
  git config --global user.email "amoghkapilak45@gmail.com"
  git clone https://github.com/Amoghh45/devops.git
  cd devops
- ls
+  git add prod.txt
+ git add .
+ git commit -m "second commit"
+ git push origin main   
