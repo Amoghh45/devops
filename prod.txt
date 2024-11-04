@@ -1,0 +1,9 @@
+ create a repository
+ create a new file
+ edit and then commit changes
+ go to vs code/ terminal/ execute the following commands 
+ git config --global user.name "Amoghh45"
+ git config --global user.email "amoghkapilak45@gmail.com"
+ git clone https://github.com/Amoghh45/devops.git
+ cd devops
+ ls
